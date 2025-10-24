@@ -12,7 +12,7 @@ Objectives
 * To simplify milestone tracking, fund requests, and complaint handling.
 
 Work Flow
-WorkFlow.png
+![Work flow](WorkFlow.png)
 
 Features
 Authority
@@ -29,7 +29,8 @@ Citizen
 * File complaints about delayed or poor-quality projects.
 
 Database
-Database.png
+![Tables struct](Database.png)
+
 
 Technologies Used
 * Programming Language: Java
